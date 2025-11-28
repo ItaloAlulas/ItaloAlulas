@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">👨🏻‍💻 Ítalo Alulas</h1>
 
-<!--
-**ItaloAlulas/ItaloAlulas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-FrontEnd-8257E5?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+My name is Ítalo Alulas, and I am 20 years old. My ultimate goal is to become a Tech Lead in Full-Stack Web Development. I consistently pursue this ambition through dedicated practice, study, and courage to embrace new challenges. While I currently focus on HTML, CSS, JavaScript, and Git fundamentals, I am committed to rapidly mastering new technologies. Above all, I understand that successful development extends beyond coding; communication, teamwork, and leadership are equally essential skills that I am continuously improving to prepare for a leadership role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+</p>
+
+---
+
+## 📊 Statistics
+
+<img
+  align="left"
+  alt="GitHub Stats"
+  style="padding-right: 10px"
+  src="https://github-readme-stats.vercel.app/api?username=ItaloAlulas&show_icons=true&theme=tokyonight" height="200" />
+<img 
+  align="left"
+  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAlulas&layout=compact&theme=tokyonight" height="200" />
