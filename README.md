@@ -21,7 +21,7 @@ My name is Ítalo Alulas, and I am 20 years old. My ultimate goal is to become a
 ## 🛠️ My Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
 </p>
 
 ---
